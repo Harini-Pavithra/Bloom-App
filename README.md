@@ -1,11 +1,10 @@
-# Bloom-App
+# Bloom App - Health Fitness Using Image Processing
 Obesity in India has reached sweeping proportions this century, with unnatural obesity affecting 5% of the country's population. India is following a trend of other developing countries that are steadily becoming more obese. Unhealthy, processed food has become much more accessible following the continued integration into global food markets, which increases the average caloric intake per individual among the middle class and above income households. Obesity is one of the major risk factors for cardiovascular disease.
 
 This project suggests Healthy food based on Image Processing that can guide intelligently according to the calorie probabilities extracted from the food image loaded to the application and with the help of the user’s medical report data using React native.
 
 ## Working:
- 
- 
+  
 ### Sign Up/Login process:
 
 Once the user installed the application, Sign up should be completed with their details such as Name, E-mail ID, and Password. After signing up, the user should log in to the application using an E-mail ID and Password.
